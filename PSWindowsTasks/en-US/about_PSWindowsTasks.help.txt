@@ -1,0 +1,11 @@
+PSTOPIC
+    about_PSWindowsTasks
+
+SHORT DESCRIPTION
+    PSWindowsTasks allows you to execute monitoring tasks against remote systems
+
+LONG DESCRIPTION
+    PSWindowsTasks allows you to execute monitoring tasks against remote systems
+
+DETAILED DESCRIPTION
+    Function that will invoke commands on a remote computer without having to use remote desktop
